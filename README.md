@@ -18,6 +18,6 @@ Desarrollador apasionado por crear soluciones web efectivas y elegantes. Con exp
 
 ## 🔗 Conéctate Conmigo
 
-- [LinkedIn]((https://www.linkedin.com/in/juan-gil-s%C3%A1nchez-a1b8ba310/))
+ [LinkedIn](https://www.linkedin.com/in/juan-gil-s%C3%A1nchez-a1b8ba310/)
 
 ✨ Siempre aprendiendo y compartiendo conocimiento.
