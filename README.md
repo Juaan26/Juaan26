@@ -6,11 +6,11 @@ Desarrollador apasionado por crear soluciones web efectivas y elegantes. Con exp
 
 - **Git**: Control de versiones, branching, y colaboración en equipos.
 - **MySQL**: Diseño y gestión de bases de datos, consultas avanzadas.
-- **PHP**: Desarrollo backend, integración de APIs, y aplicaciones web dinámicas.
+- **NODE.JS**: Desarrollo backend, integración de APIs, y aplicaciones web dinámicas.
 - **CSS3**: Estilos avanzados, diseño responsivo, y animaciones.
 - **HTML5**: Estructura semántica, accesibilidad, y uso de APIs modernas.
 - **JavaScript**: Programación en el lado del cliente, ES6+, y frameworks modernos.
-- **Laravel**: Desarrollo de aplicaciones web robustas y escalables.
+- **REACT**: Desarrollo de aplicaciones web robustas y escalables.
 
 ## 📈 Estadísticas de GitHub
 
